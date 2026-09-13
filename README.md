@@ -13,7 +13,7 @@
 <p align="left">
   <a href="https://twitter.com/adapalapur49297" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adapalapur49297" height="30" width="40" style="margin: 5px;" /></a>
   <a href="https://linkedin.com/in/akash-dapalapur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash-dapalapur" height="30" width="40" style="margin: 5px;" /></a>
-  <a href="https://instagram.com/sky__2dx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sky__2dx" height="30" width="40" style="margin: 5px;" /></a>
+  <a href="https://instagram.com/sky__2dx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sky__2d" height="30" width="40" style="margin: 5px;" /></a>
   <a href="https://www.hackerrank.com/dapalapurakash02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dapalapurakash02" height="30" width="40" style="margin: 5px;" /></a>
   <a href="https://www.leetcode.com/akash_d2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akash_d2" height="30" width="40" style="margin: 5px;" /></a>
 </p>
@@ -47,7 +47,3 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="margin: 10px;"/> </a> 
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" style="margin: 10px;"/> </a> 
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash02-byte&show_icons=true&locale=en&layout=compact" alt="akash02-byte" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akash02-byte&show_icons=true&locale=en" alt="akash02-byte" /></p>
