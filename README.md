@@ -133,9 +133,9 @@
   </a>
 
   <!-- Render -->
-  <a href="https://render.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/render/render-original.svg" alt="Render" width="40" height="40"/>
-  </a>
+  <a href="https://render.com" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/render" alt="Render" width="40" height="40"/>
+</a>
 
   <!-- Photoshop -->
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
