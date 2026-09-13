@@ -117,6 +117,11 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
   </a>
 
+  <!-- React Native -->
+  <a href="https://reactnative.dev" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/react/react-original.svg" alt="React Native" width="40" height="40"/>
+  </a>
+
   <!-- MySQL -->
   <a href="https://www.mysql.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
@@ -152,10 +157,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   </a>
 
-  <!-- React Native -->
-  <a href="https://reactnative.dev" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/react/react-original.svg" alt="React Native" width="40" height="40"/>
-  </a>
 
   <!-- Swift -->
   <a href="https://www.swift.org" target="_blank">
