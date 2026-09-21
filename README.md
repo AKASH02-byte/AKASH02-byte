@@ -11,18 +11,18 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://x.com/AKASH_D_02" target="_blank">
+  <a href="https://x.com/ADapalapur49297" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/x.svg" alt="X" width="40" height="40" style="background-color: white; border-radius: 6px; padding: 4px;" />
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://linkedin.com/in/akashdapalapur" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" />
-  </a>
-  <a href="https://instagram.com/akash_d_02" target="_blank">
+  </a>&nbsp;&nbsp;
+  <a href="https://instagram.com/akash__2d" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40" />
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://hackerrank.com/dapalapurakash02" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" width="40" height="40" />
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://leetcode.com/akashd02" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40" height="40" />
   </a>
