@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm AKASH DHASHARATH DAPALAPUR</h1>
-<h3 align="center">CSE Undergraduate passionate about Web Development & Embedded Systems</h3>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+Student;Full-Stack+Web+Developer;Hardware+%26+Embedded+Systems+Enthusiast;Building+Smart+Tracking+%26+Sensor+Apps" />
+</div>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=akash02-byte&label=Profile%20views&color=0e75b6&style=flat" alt="akash02-byte" />
