@@ -18,7 +18,7 @@
   <a href="https://linkedin.com/in/akashdapalapur" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" />
   </a>&nbsp;&nbsp;
-  <a href="[https://www.instagram.com/izqora/" target="_blank">
+  <a href="[https://instagram.com/izqora/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40" />
   </a>&nbsp;&nbsp;
   <a href="https://hackerrank.com/dapalapurakash02" target="_blank">
